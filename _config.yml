@@ -1,7 +1,7 @@
 name: 512HP
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.50775
+layout_spectrum: 0.4313509319908917
+typography_spectrum: 0.2054400979541242
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070707'
-    - '#cbd9e4'
-    - '#7b746e'
-    - '#4b4341'
-    - '#b7900c'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
   brandStrength: 0.9257998736575246
   lightness: 0.13688372843898833
   saturation: 0.30810470157302916
